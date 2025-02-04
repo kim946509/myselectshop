@@ -106,7 +106,6 @@ input#query::placeholder {
 button {
     color: white;
     border-radius: 4px;
-    border-radius: none;
 }
 
 .popup-container {
@@ -623,7 +622,6 @@ button {
     button {
         color: white;
         border-radius: 4px;
-        border-radius: none;
     }
 
     .popup-container {
