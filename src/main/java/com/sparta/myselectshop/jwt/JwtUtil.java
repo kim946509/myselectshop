@@ -1,6 +1,7 @@
 package com.sparta.myselectshop.jwt;
 
 import com.sparta.myselectshop.entity.UserRoleEnum;
+import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.MalformedJwtException;
